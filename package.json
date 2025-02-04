@@ -1,0 +1,18 @@
+{
+  "name": "performance-testing",
+  "version": "1.0.0",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angger Nur",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "k6": "^0.0.0"
+  },
+  "devDependencies": {
+    "@types/k6": "^0.54.2"
+  }
+}
